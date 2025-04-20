@@ -20,13 +20,17 @@ I focus on creating **user-friendly** and **sustainable** solutions, adhering to
 ### 🧠 Backend
 ![C#](https://img.shields.io/badge/C%23-4B4B4B?style=flat)
 ![.NET](https://img.shields.io/badge/.NET-4B4B4B?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4B4B4B?style=flat)
 ![REST API](https://img.shields.io/badge/REST_API-4B4B4B?style=flat)
+![EF Core](https://img.shields.io/badge/EF_Core-4B4B4B?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4B4B4B?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4B4B4B?style=flat)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-4B4B4B?style=flat)
 ![ERP Software](https://img.shields.io/badge/ERP_Software-4B4B4B?style=flat)
 ![IIS](https://img.shields.io/badge/IIS-4B4B4B?style=flat)
-![EF Core](https://img.shields.io/badge/EF_Core-4B4B4B?style=flat)
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-4B4B4B?style=flat)
+![CQRS + Mediator](https://img.shields.io/badge/CQRS_+_Mediator-4B4B4B?style=flat)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-4B4B4B?style=flat)
+
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)

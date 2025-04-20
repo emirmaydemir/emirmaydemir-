@@ -24,7 +24,7 @@ I focus on creating **user-friendly** and **sustainable** solutions, adhering to
 ![REST API](https://img.shields.io/badge/REST_API-FF5722?style=flat&logo=apachespark&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-3498db?style=flat)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-2ecc71?style=flat&logo=jest&logoColor=white)
-![ERP Software](https://img.shields.io/badge/ERP_Software- B0BEC5?style=flat)
+![ERP Software]
 ![IIS](https://img.shields.io/badge/IIS-4B6EAF?style=flat&logo=windows&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 

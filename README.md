@@ -25,7 +25,6 @@ I focus on creating **user-friendly** and **sustainable** solutions, adhering to
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4B4B4B?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-4B4B4B?style=flat)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-4B4B4B?style=flat)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4B4B4B?style=flat)
 ![ERP Software](https://img.shields.io/badge/ERP_Software-4B4B4B?style=flat)
 ![IIS Server](https://img.shields.io/badge/IIS_Server-4B4B4B?style=flat)
 ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-4B4B4B?style=flat)
@@ -52,7 +51,7 @@ I focus on creating **user-friendly** and **sustainable** solutions, adhering to
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ### 📦 Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-4B4B4B?style=flat)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-F5F5F5?style=flat&logo=githubactions&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Subversion](https://img.shields.io/badge/Subversion-8097BF?style=flat&logo=subversion&logoColor=white)

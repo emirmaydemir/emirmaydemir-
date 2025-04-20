@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emir Aydemir
+# 👋 Hi, I'm Emir Muhammet Aydemir
 
 I am a **Full Stack Developer** with 4 years of experience.  
 On the backend, I use **.NET**, and on the frontend, I develop web and mobile applications using **React** and **TypeScript**.  

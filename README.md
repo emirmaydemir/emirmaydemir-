@@ -26,10 +26,16 @@ I focus on creating **user-friendly** and **sustainable** solutions, adhering to
 ![SQL](https://img.shields.io/badge/SQL-4B4B4B?style=flat)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-4B4B4B?style=flat)
 ![ERP Software](https://img.shields.io/badge/ERP_Software-4B4B4B?style=flat)
-![IIS](https://img.shields.io/badge/IIS-4B4B4B?style=flat)
+![IIS Server](https://img.shields.io/badge/IIS_Server-4B4B4B?style=flat)
 ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-4B4B4B?style=flat)
 ![CQRS + Mediator](https://img.shields.io/badge/CQRS_+_Mediator-4B4B4B?style=flat)
 ![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-4B4B4B?style=flat)
+![SignalR](https://img.shields.io/badge/SignalR-4B4B4B?style=flat)
+![OOP](https://img.shields.io/badge/OOP-4B4B4B?style=flat)
+![Data Structures](https://img.shields.io/badge/Data_Structures-4B4B4B?style=flat)
+![AutoMapper](https://img.shields.io/badge/AutoMapper-4B4B4B?style=flat)
+![Multi-Project Solution](https://img.shields.io/badge/Multi--Project_Solution-4B4B4B?style=flat)
+
 
 
 ### 💻 Frontend

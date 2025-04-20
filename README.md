@@ -18,15 +18,15 @@ I focus on creating **user-friendly** and **sustainable** solutions, adhering to
 ## 🛠️ Languages, Tools & Skills:
 
 ### 🧠 Backend
-![C#](https://img.shields.io/badge/C%23-5C2D91?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-5C2D91?style=flat&logo=microsoftsqlserver&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-5C2D91?style=flat&logo=apachespark&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-5C2D91?style=flat)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-5C2D91?style=flat&logo=jest&logoColor=white)
-![ERP](https://img.shields.io/badge/ERP_Software-5C2D91?style=flat)
-![IIS](https://img.shields.io/badge/IIS-5C2D91?style=flat&logo=windows&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-5C2D91?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-4B4B4B?style=flat)
+![.NET](https://img.shields.io/badge/.NET-4B4B4B?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4B4B4B?style=flat)
+![REST API](https://img.shields.io/badge/REST_API-4B4B4B?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4B4B4B?style=flat)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-4B4B4B?style=flat)
+![ERP Software](https://img.shields.io/badge/ERP_Software-4B4B4B?style=flat)
+![IIS](https://img.shields.io/badge/IIS-4B4B4B?style=flat)
+![EF Core](https://img.shields.io/badge/EF_Core-4B4B4B?style=flat)
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)

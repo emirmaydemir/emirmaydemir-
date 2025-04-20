@@ -55,6 +55,7 @@ I focus on creating **user-friendly** and **sustainable** solutions, adhering to
 ---
 
 ### 📊 GitHub Stats
-![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiraydemir&show_icons=true&theme=transparent)
+![Emir Aydemir's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirmaydemir&show_icons=true&theme=tokyonight)
+
 
 ---

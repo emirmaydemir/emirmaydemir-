@@ -25,6 +25,7 @@ I focus on creating **user-friendly** and **sustainable** solutions, adhering to
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4B4B4B?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-4B4B4B?style=flat)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-4B4B4B?style=flat)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4B4B4B?style=flat)
 ![ERP Software](https://img.shields.io/badge/ERP_Software-4B4B4B?style=flat)
 ![IIS Server](https://img.shields.io/badge/IIS_Server-4B4B4B?style=flat)
 ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-4B4B4B?style=flat)

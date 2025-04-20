@@ -57,5 +57,8 @@ I focus on creating **user-friendly** and **sustainable** solutions, adhering to
 ### 📊 GitHub Stats
 ![Emir Aydemir's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirmaydemir&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirmaydemir&layout=compact&theme=tokyonight)
+
+
 
 ---

@@ -52,7 +52,7 @@ I focus on creating **user-friendly** and **sustainable** solutions, adhering to
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ### 📦 Tools
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-F5F5F5?style=flat&logo=githubactions&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-4B4B4B?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Subversion](https://img.shields.io/badge/Subversion-8097BF?style=flat&logo=subversion&logoColor=white)
